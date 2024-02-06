@@ -1,9 +1,9 @@
 <h2><i> About Me </i></h2>
 
 
- :telescope: Interested in web development and artificial intelligence
+ :telescope: Interested in Data analyst and artificial intelligence
 
-:woman_technologist: Information Technology Student 
+:woman_technologist: Information Technology fresh graduate  
 
 <h2><i>Let's Connect</i></h2>
 
