@@ -59,3 +59,16 @@
 
 ---
 
+### 👀 Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LenaAlenazi&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+### 🖼️ Pixel Mood
+
+<p align="center">
+  <img src="https://github.com/LenaAlenazi/LenaAlenazi/blob/main/cozy-room.gif" width="500" alt="Pixel Cozy Room" />
+</p>
