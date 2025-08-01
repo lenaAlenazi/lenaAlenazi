@@ -1,25 +1,35 @@
-<h1 align="center">Hi there, I'm Lena 👋</h1>
-
 <p align="center">
-  🎓 IT Graduate • 📊 Data Analyst  • 🤖 AI   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Lena+%F0%9F%91%8B;IT+Graduate+%E2%80%A2+Data+Analyst+%E2%80%A2+AI+Enthusiast+%E2%80%A2+Aspiring+Data+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💡 Passionate about turning data into insights
-- 📈 Interested in Data Analysis, AI, and Emerging Technologies
-- 🛠️ Always learning and building new projects
+- 💡 Passionate about turning data into insights  
+- 📈 Interested in **Data Analysis**, **AI**, and **Data Engineering**  
+- 🛠️ Always learning and building meaningful tech projects  
 
 ---
 
 ### 🧠 Skills
 
-- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-- **ML Frameworks:** scikit-learn, XGBoost  
-- **Data Tools:** Power BI, Excel (Pivot Tables & Dashboards), SQL  
-- **Others:** Git & GitHub, Data Visualization, Data Preprocessing
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -30,10 +40,6 @@
 
 - 🍃 **CLQC**  
   🏆 Awarded by **Thakaa Center (Monshaat)** for the best AI solution detecting coffee leaf diseases.
-
-
-
-
 
 ---
 
@@ -57,4 +63,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=LenaAlenazi&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="200" alt="Robot Pixel GIF" />
 </p>
