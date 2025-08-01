@@ -66,12 +66,10 @@
 </p>
 
 ---
-### 🖼️ Pixel Vibes
 
-### 🖼️ Pixel Vibes
 
 <p align="center">
-  <img src="https://i.imgur.com/qjPZlqH.gif" width="500" alt="Pixel Robot Coding" />
+  <img src="https://i.imgur.com/qjPZlqH.gif" width="800" alt="Pixel Robot Coding" />
 </p>
 
 
