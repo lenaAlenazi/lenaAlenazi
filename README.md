@@ -67,8 +67,9 @@
 
 ---
 
-### 🖼️ Pixel Mood
+### 🖼️ Pixel Vibes
 
 <p align="center">
-  <img src="https://github.com/LenaAlenazi/LenaAlenazi/blob/main/cozy-room.gif" width="500" alt="Pixel Cozy Room" />
+  <img src="https://i.imgur.com/yNBWoc0.gif" width="500" alt="Pixel Cat Coding at Night" />
 </p>
+
