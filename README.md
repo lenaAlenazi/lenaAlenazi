@@ -28,11 +28,10 @@
 - 🛡️ **Green Guard**  
   Selected as one of the **Top 3 Projects** in the T5 Bootcamp for AI-powered plant disease detection.
 
-- 🍃 **CLQC (Coffee Leaf Quality Classifier)**  
+- 🍃 **CLQC**  
   🏆 Awarded by **Thakaa Center (Monshaat)** for the best AI solution detecting coffee leaf diseases.
 
-- 📊 **Sports Sector Dashboard**  
-  Built an Excel dashboard to visualize sector challenges and map emerging tech solutions.
+
 
 
 
