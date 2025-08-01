@@ -59,13 +59,3 @@
 
 ---
 
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1YNW8zFqFGgOq/giphy.gif" width="200" alt="Cute Toy Robot" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" width="200" alt="Cute Robot Working" />
-</p>
