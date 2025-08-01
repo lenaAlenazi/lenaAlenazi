@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lena 👋</h1>
 
 <p align="center">
-  🎓 IT Graduate • 📊 Data Analyst Enthusiast • 🤖 AI Explorer  
+  🎓 IT Graduate • 📊 Data Analyst  • 🤖 AI   
 </p>
 
 ---
@@ -34,8 +34,7 @@
 - 📊 **Sports Sector Dashboard**  
   Built an Excel dashboard to visualize sector challenges and map emerging tech solutions.
 
-- 🌱 **IoT Smart Farm System**  
-  Designed a smart irrigation system using sensors to optimize water usage.
+
 
 ---
 
