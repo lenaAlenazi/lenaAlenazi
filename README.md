@@ -69,7 +69,7 @@
 ### 🖼️ Pixel Vibes
 
 <p align="center">
-  <img src="https://i.imgur.com/FV3C6cL.gif" width="500" alt="Pixel Robot Relaxing" />
+  <img src="https://imgur.com/a/gc8rBLR" width="500" alt="Pixel Robot Relaxing" />
 </p>
 
 
