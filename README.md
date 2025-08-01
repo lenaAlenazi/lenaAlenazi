@@ -66,10 +66,10 @@
 </p>
 
 ---
-
 ### 🖼️ Pixel Vibes
 
 <p align="center">
-  <img src="https://i.imgur.com/yNBWoc0.gif" width="500" alt="Pixel Cat Coding at Night" />
+  <img src="https://i.imgur.com/FV3C6cL.gif" width="500" alt="Pixel Robot Relaxing" />
 </p>
+
 
