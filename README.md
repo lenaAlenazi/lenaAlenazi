@@ -3,15 +3,15 @@
 </p>
 
 
-### 👩‍💻 About Me
+### About Me
 
-- 💡 Passionate about turning data into insights  
-- 📈 Interested in **Data Analysis**, **AI**, and **Data Engineering**  
-- 🛠️ Always learning and building meaningful tech projects  
+- Passionate about turning data into insights  
+- Interested in **Data Analysis**, **AI**, and **Data Engineering**  
+- Always learning and building meaningful tech projects  
 
 ---
 
-### 🧠 Skills
+### Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - 🛡️ **Green Guard**  
   Selected as one of the **Top 3 Projects** in the T5 Bootcamp for AI-powered plant disease detection.
@@ -58,7 +58,7 @@
 
 ---
 
-### 👀 Visitor Count
+### Visitor Count
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=LenaAlenazi&style=flat-square&color=blue" alt="Profile Views" />
