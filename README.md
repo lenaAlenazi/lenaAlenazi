@@ -3,8 +3,7 @@
 
 ### About Me
 
-- Passionate about turning data into insights  
-- Always learning and building meaningful tech projects  
+- Passionate about learning and building meaningful tech projects  
 
 ---
 
