@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<rect width="860" height="220" rx="14" fill="#2B2522"/>
+<circle cx="24" cy="24" r="5" fill="#8B7A70"/><circle cx="42" cy="24" r="5" fill="#C9C5BD"/><circle cx="60" cy="24" r="5" fill="#8A9A8A"/>
+<text x="82" y="28" fill="#7A6E66" font-size="12">pipeline #2026 · lena/profile · main</text>
+<g><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.8;1" dur="7s" repeatCount="indefinite" calcMode="discrete"/>
+  <circle cx="750" cy="24" r="5" fill="#8FB2CF"><animate attributeName="opacity" values="1;0.25;1" dur="1s" repeatCount="indefinite"/></circle>
+  <text x="762" y="28" fill="#8FB2CF" font-size="12" font-weight="700">running</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.8;1" dur="7s" repeatCount="indefinite" calcMode="discrete"/>
+  <circle cx="750" cy="24" r="5" fill="#8A9A8A"/><text x="762" y="28" fill="#8A9A8A" font-size="12" font-weight="700">passed ✔</text></g>
+<line x1="110" y1="118" x2="730" y2="118" stroke="#4A403B" stroke-width="4" stroke-linecap="round"/>
+<line x1="110" y1="118" x2="730" y2="118" stroke="#8FB2CF" stroke-width="4" stroke-linecap="round" stroke-dasharray="620" stroke-dashoffset="620">
+  <animate attributeName="stroke-dashoffset" values="620;0;0;620" keyTimes="0;0.8;0.96;1" dur="7s" repeatCount="indefinite" /></line>
+
+  <circle cx="110" cy="118" r="22" fill="#3A322E" stroke="#5A4E48" stroke-width="2"/>
+  <circle cx="110" cy="118" r="22" fill="none" stroke="#8FB2CF" stroke-width="2" opacity="0"><animate attributeName="r" values="22;22;22;40;40" keyTimes="0;0.00;0.02;0.12;1" dur="7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;0;0.8;0;0" keyTimes="0;0.00;0.02;0.12;1" dur="7s" repeatCount="indefinite" /></circle>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.00;0.02;0.96;1" dur="7s" repeatCount="indefinite" />
+    <circle cx="110" cy="118" r="22" fill="#8FB2CF"/>
+    <path d="M102 118 l6 6 l11 -12" fill="none" stroke="#2B2522" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="110" y="84" text-anchor="middle" fill="#7A6E66" font-size="10">stage 01</text>
+  <text x="110" y="164" text-anchor="middle" fill="#E9D6CC" font-size="15" font-weight="700">data</text>
+  <text x="110" y="184" text-anchor="middle" fill="#7A6E66" font-size="11">Python · SQL</text>
+  <circle cx="265" cy="118" r="22" fill="#3A322E" stroke="#5A4E48" stroke-width="2"/>
+  <circle cx="265" cy="118" r="22" fill="none" stroke="#8A9A8A" stroke-width="2" opacity="0"><animate attributeName="r" values="22;22;22;40;40" keyTimes="0;0.20;0.22;0.32;1" dur="7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;0;0.8;0;0" keyTimes="0;0.20;0.22;0.32;1" dur="7s" repeatCount="indefinite" /></circle>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.20;0.22;0.96;1" dur="7s" repeatCount="indefinite" />
+    <circle cx="265" cy="118" r="22" fill="#8A9A8A"/>
+    <path d="M257 118 l6 6 l11 -12" fill="none" stroke="#2B2522" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="265" y="84" text-anchor="middle" fill="#7A6E66" font-size="10">stage 02</text>
+  <text x="265" y="164" text-anchor="middle" fill="#E9D6CC" font-size="15" font-weight="700">ml</text>
+  <text x="265" y="184" text-anchor="middle" fill="#7A6E66" font-size="11">scikit-learn · Keras</text>
+  <circle cx="420" cy="118" r="22" fill="#3A322E" stroke="#5A4E48" stroke-width="2"/>
+  <circle cx="420" cy="118" r="22" fill="none" stroke="#E9D6CC" stroke-width="2" opacity="0"><animate attributeName="r" values="22;22;22;40;40" keyTimes="0;0.40;0.42;0.52;1" dur="7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;0;0.8;0;0" keyTimes="0;0.40;0.42;0.52;1" dur="7s" repeatCount="indefinite" /></circle>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.42;0.96;1" dur="7s" repeatCount="indefinite" />
+    <circle cx="420" cy="118" r="22" fill="#E9D6CC"/>
+    <path d="M412 118 l6 6 l11 -12" fill="none" stroke="#2B2522" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="420" y="84" text-anchor="middle" fill="#7A6E66" font-size="10">stage 03</text>
+  <text x="420" y="164" text-anchor="middle" fill="#E9D6CC" font-size="15" font-weight="700">build</text>
+  <text x="420" y="184" text-anchor="middle" fill="#7A6E66" font-size="11">Docker · Git</text>
+  <circle cx="575" cy="118" r="22" fill="#3A322E" stroke="#5A4E48" stroke-width="2"/>
+  <circle cx="575" cy="118" r="22" fill="none" stroke="#C9C5BD" stroke-width="2" opacity="0"><animate attributeName="r" values="22;22;22;40;40" keyTimes="0;0.60;0.62;0.72;1" dur="7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;0;0.8;0;0" keyTimes="0;0.60;0.62;0.72;1" dur="7s" repeatCount="indefinite" /></circle>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.60;0.62;0.96;1" dur="7s" repeatCount="indefinite" />
+    <circle cx="575" cy="118" r="22" fill="#C9C5BD"/>
+    <path d="M567 118 l6 6 l11 -12" fill="none" stroke="#2B2522" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="575" y="84" text-anchor="middle" fill="#7A6E66" font-size="10">stage 04</text>
+  <text x="575" y="164" text-anchor="middle" fill="#E9D6CC" font-size="15" font-weight="700">ci/cd</text>
+  <text x="575" y="184" text-anchor="middle" fill="#7A6E66" font-size="11">GitLab CI</text>
+  <circle cx="730" cy="118" r="22" fill="#3A322E" stroke="#5A4E48" stroke-width="2"/>
+  <circle cx="730" cy="118" r="22" fill="none" stroke="#8B7A70" stroke-width="2" opacity="0"><animate attributeName="r" values="22;22;22;40;40" keyTimes="0;0.80;0.82;0.92;1" dur="7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;0;0.8;0;0" keyTimes="0;0.80;0.82;0.92;1" dur="7s" repeatCount="indefinite" /></circle>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.82;0.96;1" dur="7s" repeatCount="indefinite" />
+    <circle cx="730" cy="118" r="22" fill="#8B7A70"/>
+    <path d="M722 118 l6 6 l11 -12" fill="none" stroke="#2B2522" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="730" y="84" text-anchor="middle" fill="#7A6E66" font-size="10">stage 05</text>
+  <text x="730" y="164" text-anchor="middle" fill="#E9D6CC" font-size="15" font-weight="700">cloud</text>
+  <text x="730" y="184" text-anchor="middle" fill="#7A6E66" font-size="11">AWS · Linux</text>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;620 0;620 0" keyTimes="0;0.8;1" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="7s" repeatCount="indefinite" />
+  <circle cx="110" cy="118" r="11" fill="#E9D6CC" opacity=".25"/><circle cx="110" cy="118" r="6" fill="#E9D6CC"/>
+</g>
+</svg>
