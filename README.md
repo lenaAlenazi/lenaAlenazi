@@ -56,9 +56,15 @@ lena@github:~$ ls ~/tools
 ```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Postman-2B2522?style=flat-square&logo=postman&logoColor=8B7A70" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-2B2522?style=flat-square&logo=gitlab&logoColor=8B7A70" />
   <img src="https://img.shields.io/badge/AWS-2B2522?style=flat-square&logo=amazonwebservices&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-2B2522?style=flat-square&logo=googlecloud&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/Kubernetes-2B2522?style=flat-square&logo=kubernetes&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/Terraform-2B2522?style=flat-square&logo=terraform&logoColor=8B7A70" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitLab-2B2522?style=flat-square&logo=gitlab&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-2B2522?style=flat-square&logo=gitlab&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/Jenkins-2B2522?style=flat-square&logo=jenkins&logoColor=8B7A70" />
+  <img src="https://img.shields.io/badge/Postman-2B2522?style=flat-square&logo=postman&logoColor=8B7A70" />
 </p>
 
 ---
